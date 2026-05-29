@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor",
+  "description": "Professional video and image editing suite featuring keyframe animation, Gemini-powered color grading, image upscaling, and cloud-based project syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
